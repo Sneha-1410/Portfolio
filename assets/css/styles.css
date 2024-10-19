@@ -903,7 +903,10 @@ footer.entry-meta .meta-in {
     margin-top: 0;
     margin-bottom: 30px;
 }
-
+.b_image{
+    width: 100%;
+    height: 100%;
+}
 /*********************************************************************
   
   
